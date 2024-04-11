@@ -83,7 +83,7 @@ Best accuracy：85.45%
 
 Best accuracy：84.75%
 
-#### **Example Accuracy Performance from **ColossalAI
+#### **Example Accuracy Performance from ColossalAI**
 
 | Model     | Single-GPU Baseline FP32 | Booster DDP with FP32 | Booster DDP with FP16 | Booster Low Level Zero | Booster Gemini |
 | --------- | ------------------------ | --------------------- | --------------------- | ---------------------- | -------------- |
